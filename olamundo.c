@@ -1,4 +1,4 @@
-#includedl <studio.h>
+#include <studio.h>
 int main(){
 
 printf ("ola mundo!\n");
